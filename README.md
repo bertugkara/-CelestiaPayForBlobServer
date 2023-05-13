@@ -12,4 +12,4 @@ https://github.com/bertugkara/CelestiaPayForBlobUI.git (frontend).
 
 Install the dependencies using "npm install"
 
-Start the development server using "node index.js"
+Start the development server using "node server.js"
