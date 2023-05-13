@@ -11,5 +11,7 @@ Edit the "constants.js" file change the celestia wallet address to the address w
 https://github.com/bertugkara/CelestiaPayForBlobUI.git (frontend).
 
 Install the dependencies using "npm install"
+
 Introduce your Celestia Wallet Address using "export WALLET_ADDRESS= <celestia_address_of_your_node>"
+
 Start the development server using "node server.js"
